@@ -1,4 +1,3 @@
-# README.md
 
 # AWS EC2 Static Website Deployment
 
